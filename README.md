@@ -64,4 +64,15 @@ npx create-expo-app@latest --template default@next
 # list the devices
 
 adb --version
+
 adb devices
+
+# run the projects
+
+npm run ios for ios
+
+npm run android (expo start --android)
+
+npx expo run:android CLI command Native project banao + compile karo + install/run karo
+
+expo-dev-client npm package Us native build ko Expo Go jaisi dev-menu/tools de dena
